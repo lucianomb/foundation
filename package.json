@@ -1,0 +1,19 @@
+{
+  "name": "BrazilJS",
+  "version": "2.0.0",
+  "description": "A non-profit foundation with a mission to move and unify JavaScript community in Brazil.",
+  "homepage": "http://braziljs.org",
+  "repository" : {
+    "type" : "git",
+    "url" : "http://github.com/braziljs/conf-foundation.git"
+  },
+  "engines" : {
+    "node": "0.8.x",
+    "npm": "1.1.x"
+  },
+  "dependencies": {
+    "docpad-plugin-eco": "2.x",
+    "docpad-plugin-marked": "2.x",
+    "docpad-plugin-partials": "2.x"
+  }
+}
