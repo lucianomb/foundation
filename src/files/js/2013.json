@@ -1,0 +1,82 @@
+[
+    {
+      "name": "BeagaJS",
+      "website": "http://www.beagajs.com.br/2013/",
+      "thumbnail": "http://braziljs.org/services/events/media/2013/beagajs.jpg",
+      "location": "Belo Horizonte, MG",
+      "date": "2013-03-02",
+      "price": "R$ 45"
+    },
+    {
+      "name": "RioJS",
+      "website": "http://www.riojs.org/",
+      "thumbnail": "http://braziljs.org/services/events/media/2013/riojs.jpg",
+      "location": "Rio de Janeiro, RJ",
+      "date": "2013-03-09",
+      "price": "R$ 30"
+    },
+    {
+      "name": "SampaJS",
+      "website": "http://bonoevento.com/sampajs",
+      "thumbnail": "http://braziljs.org/services/events/media/2013/sampajs.jpg",
+      "location": "São Paulo, SP",
+      "date": "2013-03-09",
+      "price": "R$ 50"
+    },
+    {
+      "name": "RSJS",
+      "website": "http://rsjs.org/",
+      "thumbnail": "http://braziljs.org/services/events/media/2013/rsjs.png",
+      "location": "Porto Alegre, RS",
+      "date": "2013-03-23",
+      "price": "R$ 45"
+    },
+    {
+      "name": "BahiaJS",
+      "website": "http://softwarelivre.org/flisol-ssa/bahiajs-blog/",
+      "thumbnail": "http://braziljs.org/services/events/media/2013/bahiajs.jpg",
+      "location": "Salvador, BA",
+      "date": "2013-04-27",
+      "price": "Gratuito"
+    },
+    {
+      "name": "www2013",
+      "website": "http://www2013.org/",
+      "thumbnail": "http://braziljs.org/services/events/media/2013/www2013.jpg",
+      "location": "Rio de Janeiro, RJ",
+      "date": "2013-05-13",
+      "price": "R$ 2.430"
+    },
+    {
+      "name": "Tableless Conf",
+      "website": "http://tableless.com.br/tablelessconf/",
+      "thumbnail": "http://braziljs.org/services/events/media/2013/tablelessconf.jpg",
+      "location": "São Paulo, SP",
+      "date": "2013-05-16",
+      "price": "R$ 250"
+    },
+    {
+      "name": "FEEC Brazil",
+      "website": "http://www.feecbr.com.br/",
+      "thumbnail": "http://braziljs.org/services/events/media/2013/feec.png",
+      "location": "Fortaleza, CE",
+      "date": "2013-05-25",
+      "price": "R$ ??"
+    },
+    {
+      "name": "FEEC Brazil",
+      "website": "http://www.feecbr.com.br/",
+      "thumbnail": "http://braziljs.org/services/events/media/2013/feec.png",
+      "location": "Salvador, BA",
+      "date": "2013-08-24",
+      "price": "R$ ??"
+    },
+    {
+      "name": "BrazilJS Conf",
+      "website": "http://braziljs.com.br/",
+      "thumbnail": "http://braziljs.org/services/events/media/2013/braziljscof.png",
+      "location": "Porto Alegre, RS",
+      "date": "2013-08-??",
+      "price": "R$ ??"
+    }
+  ]
